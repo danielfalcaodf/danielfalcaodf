@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://danielfalcaodf.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/danielfalcaodf" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
